@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Mishra</h1>
 <h3 align="center">Want to become a software engineering</h3>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/sahil030320005/sahil030320005/blob/main/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil030320005&label=Profile%20views&color=0e75b6&style=flat" alt="sahil030320005" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sahilmi86109458" target="blank"><img src="https://img.shields.io/twitter/follow/sahilmi86109458?logo=twitter&style=for-the-badge" alt="sahilmi86109458" /></a> </p>
